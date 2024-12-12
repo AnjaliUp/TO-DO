@@ -1,0 +1,7 @@
+# Ignore node_modules folders
+node_modules/
+todolist/node_modules/
+Server/node_modules/
+
+# Ignore environment files
+.env
