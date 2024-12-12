@@ -1,6 +1,6 @@
-# Todo-List-in-ExpressJs-ReactJs-NodeJs-MongoDB-Scss
+# Todo-List
 
-A Todo List application built using the MERN stack (MongoDB, Express, React, Node.js) with SCSS for styling.
+A Todo List application built using the MERN stack
 
 ## Preview
 <picture><img src = "todolist/public/Todo.gif" width = 100%></picture>
@@ -20,7 +20,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository:
 
    ```bash
-   git clone "https://github.com/Sudhanshu-Ambastha/Todo-List-in-ExpressJs-ReactJs-NodeJs-MongoDB-Scss"
+   git clone "https://github.com/AnjaliUp/TO-DO"
    ```
 2. Install the dependencies:
    ```
